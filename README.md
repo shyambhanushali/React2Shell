@@ -33,7 +33,7 @@ React2Shell v1.0 – Python-based RCE PoC for CVE-2025-55182 / CVE-2025-66478
 Written with ❤️ by @shyambhanushali & @nickvourd
 Licensed under MIT
 
-Repository: https://github.com/shyambhanushali/React2Shell---CVE-2025-55182-CVE-2025-66478
+Repository: https://github.com/shyambhanushali/React2Shell
 
 
 ## USAGE 
