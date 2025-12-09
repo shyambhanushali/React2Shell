@@ -47,4 +47,4 @@ options:
   
   -t, --target TARGET   Target URL (e.g. http://localhost:3000)
   
-  -c, --command COMMAND Command to Execute on the Target
+  -c, --command  Command to Execute on the Target
