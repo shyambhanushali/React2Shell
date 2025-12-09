@@ -30,7 +30,9 @@ You are solely responsible for ensuring legal and authorized usage.
 ## Version & Credits
 
 React2Shell v1.0 – Python-based RCE PoC for CVE-2025-55182 / CVE-2025-66478
+
 Written with ❤️ by @shyambhanushali & @nickvourd
+
 Licensed under MIT
 
 Repository: https://github.com/shyambhanushali/React2Shell
