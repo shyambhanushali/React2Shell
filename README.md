@@ -42,6 +42,7 @@ react2shell.py [-h] -t TARGET -c COMMAND
 
 
 options:
+
   -h, --help            show this help message and exit
   
   -t, --target TARGET   Target URL (e.g. http://localhost:3000)
